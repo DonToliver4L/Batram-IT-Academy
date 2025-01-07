@@ -1,0 +1,115 @@
+main {
+    margin-top: 30px;
+    margin-left: 26%;
+    border-color: white;
+    border: 5px;
+    border-style: dotted;
+    width: 900px;
+    height: 700px;
+}
+header{
+    color: white;
+    text-align: center;
+}
+
+.h1Tag {
+    font-size: 70px;
+}
+.h4Tag {
+    padding-top: 15px 20px;
+    text-align: center;
+}
+main h1:hover {
+    
+    transition: 3s ;
+    font-size: 50px;
+    color: rgb(255, 164, 255);
+}
+main h1 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-top: 40px;
+    font-size: 75px;
+}
+
+.page1button {
+    margin-left: 50%;
+    margin-top: 40px;
+    padding-left: 50px;
+    border: 6px double;
+    background-color: rgb(0, 128, 187);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    padding: 15px 20px;
+    width: 100px;
+    height: 80px;
+}
+
+.page2button {
+    margin-left: 50%;
+    margin-top: 40px;
+    padding-left: 50px;
+    border: 6px double;
+    background-color: rgb(0, 128, 187);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    padding: 15px 20px;
+    width: 100px;
+    height: 80px;
+}
+
+.page3button {
+    margin-left: 50%;
+    margin-top: 40px;
+    padding-left: 50px;
+    border: 6px double;
+    background-color: rgb(0, 128, 187);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    padding: 15px 20px;
+    width: 100px;
+    height: 80px;
+}
+
+.Home {
+    margin-left: 50%;
+    margin-top: 40px;
+    padding-left: 50px;
+    border: 6px double;
+    background-color: rgb(0, 128, 187);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    padding: 15px 20px;
+    width: 100px;
+    height: 80px;
+}
+body{
+    background-color: mediumturquoise;
+}
+.pages {
+    text-decoration: none;
+}
+
+.firstpage {
+    color:cornsilk;
+    text-align: center;
+    font-size: 50px;
+}
+
+.secondPage {
+    color:cornsilk;
+    text-align: center;
+    font-size: 50px;
+}
+
+.TheEnd {
+    text-align: center;
+    font-size: 75px;
+    font-style: italic;
+}
+.thirdpage {
+    color:cornsilk;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,65 @@
+h3 {
+    text-transform: uppercase;
+}
+body {
+    background-color: rgb(216, 22, 216);
+}
+p {
+    text-align: left;
+    font-family: Arial;
+}
+
+body {
+    background-color: lightgray;
+}
+
+#links {
+    font-size: 16px;
+    font-style: italic;
+}
+
+main {
+    min-height: 600px;
+    margin: 15px 15px 15px 15px ;
+    padding: 10px 10px 10px 10px;
+}
+
+footer {
+    margin: 50px 50px 50px 50px ;
+    padding: 10px 10px 10px 10px;
+}
+
+iframe {
+    height: 600px;
+    width: 100%;
+}
+
+.header {
+    border-style: soild;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkVGRzYSOKYEWXhBvOOqT4rMKCiZKoIAH-PY180kX1jzVq5JV:https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg&s");
+}
+
+.content {
+    background-color: lightgray;
+    height: 80%;
+    width: 70%;
+}
+
+.footer {
+    background-color: lightgray;
+}
+
+
+.large-list{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img:hover {
+    width: 400px;
+    height: 400px;
+}
+
+img {
+    width: 50%;
+}

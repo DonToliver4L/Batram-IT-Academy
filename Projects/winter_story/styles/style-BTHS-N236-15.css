@@ -1,0 +1,37 @@
+main {
+    margin-top: 30px;
+    margin-left: 26%;
+    border-color: white;
+    border: 5px;
+    border-style: dotted;
+    width: 900px;
+    height: 700px;
+}
+header{
+    text-align: center;
+}
+
+.h1Tag {
+    transition: 3s ;
+    color: linear-gradient(180deg, rgb(0, 189, 252), white);
+}
+.page1button {
+    margin-left: 50%;
+    margin-top: 40px;
+    padding-left: 50px;
+    border: 6px double;
+    background-color: rgb(0, 128, 187);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    padding: 15px 20px;
+    width: 100px;
+    height: 80px;
+}
+
+body{
+    background-color: mediumturquoise;
+}
+.pages {
+    text-decoration: none;
+}
+
